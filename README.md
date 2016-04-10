@@ -1,6 +1,6 @@
 # RESTful Web Services
 
-For educational purposes only.
+Para fines educacionales.
 
 ## Instalación
 
